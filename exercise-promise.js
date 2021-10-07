@@ -66,3 +66,5 @@ const getCardFromSameDeck = ()=>{
 }
 
 $("#getcard").on('click', getCardFromSameDeck)
+
+
